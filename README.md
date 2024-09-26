@@ -1,1 +1,2 @@
-hos geldin git
+hos geldin gitgit
+git add
